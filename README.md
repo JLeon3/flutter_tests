@@ -1,6 +1,6 @@
 # flutter_tests
 
-A new Flutter project.
+Followed [tutorial](https://www.youtube.com/watch?v=SNv0cX0-6h8) to try out unit and widget testing in Flutter.
 
 ## Getting Started
 
